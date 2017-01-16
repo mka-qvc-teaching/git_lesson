@@ -6,4 +6,8 @@ def my square(y):
 		"""
 		return(y ** 2)
 		
+def my_square2(x):
+	return (x * x)
+	
 print(my square(42))
+print(mysquare2(42))
